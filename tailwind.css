@@ -14,7 +14,7 @@
   body {
     -webkit-print-color-adjust: exact !important;
     color-adjust: exact !important;
-    color: pink !important;
+    color: black!important;
   }
 
   .page {
