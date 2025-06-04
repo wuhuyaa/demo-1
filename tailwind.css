@@ -14,7 +14,7 @@
   body {
     -webkit-print-color-adjust: exact !important;
     color-adjust: exact !important;
-    color: black!important;
+    color: blue!important;
   }
 
   .page {
@@ -27,7 +27,7 @@
   }
 
   h1, h2, h3, p, li {
-    color: black !important;
+    color: pink !important;
   }
 
   html {
